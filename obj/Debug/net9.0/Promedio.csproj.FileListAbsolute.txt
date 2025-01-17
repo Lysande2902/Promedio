@@ -1,0 +1,14 @@
+C:\Users\yengl\Desktop\Promedio\promedio\bin\Debug\net9.0\Promedio.exe
+C:\Users\yengl\Desktop\Promedio\promedio\bin\Debug\net9.0\Promedio.deps.json
+C:\Users\yengl\Desktop\Promedio\promedio\bin\Debug\net9.0\Promedio.runtimeconfig.json
+C:\Users\yengl\Desktop\Promedio\promedio\bin\Debug\net9.0\Promedio.dll
+C:\Users\yengl\Desktop\Promedio\promedio\bin\Debug\net9.0\Promedio.pdb
+C:\Users\yengl\Desktop\Promedio\promedio\obj\Debug\net9.0\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\Desktop\Promedio\promedio\obj\Debug\net9.0\Promedio.AssemblyInfoInputs.cache
+C:\Users\yengl\Desktop\Promedio\promedio\obj\Debug\net9.0\Promedio.AssemblyInfo.cs
+C:\Users\yengl\Desktop\Promedio\promedio\obj\Debug\net9.0\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\yengl\Desktop\Promedio\promedio\obj\Debug\net9.0\Promedio.dll
+C:\Users\yengl\Desktop\Promedio\promedio\obj\Debug\net9.0\refint\Promedio.dll
+C:\Users\yengl\Desktop\Promedio\promedio\obj\Debug\net9.0\Promedio.pdb
+C:\Users\yengl\Desktop\Promedio\promedio\obj\Debug\net9.0\Promedio.genruntimeconfig.cache
+C:\Users\yengl\Desktop\Promedio\promedio\obj\Debug\net9.0\ref\Promedio.dll
